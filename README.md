@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Mayura Alahakoon </h1>
-<h3 align="center"> ~ Aspiring Research Engineer </h3>
+<h3 align="center"> ~ Aspiring Research Software Engineer </h3>
 
 ## About Me
 Undergraduate Software Engineering student from Sri Lanka 🇱🇰
