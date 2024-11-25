@@ -19,6 +19,8 @@ Studying Software Engineering with a focus on:
 
 🔭 Working on: [KnowliHub](https://mayura-andrew.github.io/knowlihub/) - A knowledge sharing platform
 
+<img src=''>
+
 ## My Vision
 
 I'm driven by a burning curiosity about how software can shape a better future for humanity. My goal is to leverage technology for positive societal impact, constantly pushing the boundaries of what's possible.
