@@ -12,6 +12,9 @@ async function generate() {
 
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
 
+
+
+
   await Promise.all(
     posts.map(async (name) => {
       if (name.startsWith('index.')) return
@@ -21,12 +24,14 @@ async function generate() {
       )
       const frontmatter = matter(content)
 
+      const categories = frontmatter.data.tag ? frontmatter.data.tag.split(', ') : [];
+      
       feed.item({
         title: frontmatter.data.title,
         url: '/posts/' + name.replace(/\.mdx?/, ''),
         date: frontmatter.data.date,
         description: frontmatter.data.description,
-        categories: frontmatter.data.tag.split(', '),
+        categories: categories,
         author: frontmatter.data.author,
       })
     })

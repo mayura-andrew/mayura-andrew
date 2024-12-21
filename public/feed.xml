@@ -4,18 +4,21 @@
         <description><![CDATA[Mayura Andrew]]></description>
         <link>https://mayuraandrew.tech</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Nov 2023 16:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 23:43:50 GMT</lastBuildDate>
         <atom:link href="https://mayuraandrew.tech/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[A Beginner's Guide and Free Resources to Learn Golang from an Early Stage Gopher🐹]]></title>
-            <description><![CDATA[Embark on your Golang journey with this beginner's guide curated by an early-stage Gopher. Explore free resources, master the language, and unlock the potential of Go programming. Start your coding adventure now! 🚀🐹]]></description>
-            <link>/posts/Discover-Golang:-A-Beginner&apos;s-Guide</link>
-            <guid isPermaLink="true">/posts/Discover-Golang:-A-Beginner&apos;s-Guide</guid>
-            <category><![CDATA[GoLang]]></category>
-            <category><![CDATA[Gopher]]></category>
-            <category><![CDATA[Beginner]]></category>
+            <title><![CDATA[My Experience as a Remote Volunteer Software Engineer at Sustainable Education Foundation 🌍]]></title>
+            <description><![CDATA[In this article, I share my journey as a remote volunteer software engineer at the Sustainable Education Foundation (SEF) over the past six months. From starting as a second-year Software Engineering undergraduate to becoming an integral part of the main engineering team, I detail my contributions to open-source projects, the challenges I faced, and the valuable lessons I learned. Join me in exploring the world of open-source contributions and discover tips for aspiring contributors. Check out my experiences, insights, and resources to get started on your own journey!]]></description>
+            <link>/posts/Journey_as_a_Remote_Volunteer_Software_Engineer_at_SEF</link>
+            <guid isPermaLink="true">/posts/Journey_as_a_Remote_Volunteer_Software_Engineer_at_SEF</guid>
+            <category><![CDATA[sef]]></category>
+            <category><![CDATA[scholarx]]></category>
+            <category><![CDATA[open-source]]></category>
+            <category><![CDATA[software-engineer]]></category>
+            <category><![CDATA[remote]]></category>
+            <category><![CDATA[sri-lanka]]></category>
             <dc:creator><![CDATA[mayura andrew]]></dc:creator>
-            <pubDate>Mon, 13 Nov 2023 18:30:00 GMT</pubDate>
+            <pubDate>Thu, 13 Jun 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Setting Up MySQL and phpMyAdmin in Debian with Docker🐳]]></title>
@@ -39,6 +42,37 @@
             <pubDate>Sat, 08 Jul 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Building a Bulk Email Sending API client with Go, Google SMTP, PostgreSQL and Docker 🐳]]></title>
+            <description><![CDATA[Discover how to build a robust and scalable bulk email sending API using Go and Google SMTP for the Sustainable Education Foundation's ScholarX platform. This guide covers the architecture, implementation details, concurrency handling, tracking features, and Dockerization. Dive in to learn how to efficiently manage bulk email operations and enhance your projects.]]></description>
+            <link>/posts/building-a-email-client-api-using-go</link>
+            <guid isPermaLink="true">/posts/building-a-email-client-api-using-go</guid>
+            <category><![CDATA[go]]></category>
+            <category><![CDATA[api]]></category>
+            <category><![CDATA[postgresql]]></category>
+            <category><![CDATA[docker]]></category>
+            <category><![CDATA[google]]></category>
+            <category><![CDATA[smtp]]></category>
+            <category><![CDATA[http]]></category>
+            <category><![CDATA[restful]]></category>
+            <dc:creator><![CDATA[mayura andrew]]></dc:creator>
+            <pubDate>Sat, 08 Jun 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unlocking the World of Technology using Free Learning Resources]]></title>
+            <description><![CDATA[Embark on a captivating journey through the ever-expanding universe of technology education with my latest vlog! 🌐 Join me as I share personal insights, discoveries, and invaluable resources from two eminent educators—Dr. Charles R. Severance and Dr. Stephen P. Tarzia.]]></description>
+            <link>/posts/Unlocking-the-World-of-Technology</link>
+            <guid isPermaLink="true">/posts/Unlocking-the-World-of-Technology</guid>
+            <category><![CDATA[free-resources]]></category>
+            <category><![CDATA[learning]]></category>
+            <category><![CDATA[technology]]></category>
+            <category><![CDATA[free]]></category>
+            <category><![CDATA[internet]]></category>
+            <category><![CDATA[tech education]]></category>
+            <category><![CDATA[sharing]]></category>
+            <dc:creator><![CDATA[mayura andrew]]></dc:creator>
+            <pubDate>Fri, 22 Dec 2023 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unlocking the Benefits of Containers for Computer Science Students]]></title>
             <description><![CDATA[This article highlights the advantages of containers for computer science students and their practical applications in university projects. Containers offer a consistent, efficient, and portable runtime environment for developing and deploying applications. They enable simplified setup, improved consistency, and reduced bugs in database management, web development, and machine learning projects. Understanding and utilizing containers equips computer science students with valuable skills for their future careers.]]></description>
             <link>/posts/containers</link>
@@ -46,6 +80,22 @@
             <category><![CDATA[containerization]]></category>
             <dc:creator><![CDATA[mayura andrew]]></dc:creator>
             <pubDate>Sat, 10 Jun 2023 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>/posts/git-best-practices</link>
+            <guid isPermaLink="true">/posts/git-best-practices</guid>
+        </item>
+        <item>
+            <title><![CDATA[Intro to Cloud Native Application World🌎, Tomorrow's Applications with Cloud-Native Technologies]]></title>
+            <description><![CDATA[Explore the dynamic world of cloud-native application development with my upcoming insightful article series. Written by me as a second-year Software Engineering student, each installment delves into key concepts such as microservices architecture, containerization with Docker, and orchestration with Kubernetes. Join us on this journey to discover the latest tools, best practices, and real-world examples shaping the future of software development.]]></description>
+            <link>/posts/into-to-cloud-native-applications</link>
+            <guid isPermaLink="true">/posts/into-to-cloud-native-applications</guid>
+            <category><![CDATA[cloud-native]]></category>
+            <category><![CDATA[future]]></category>
+            <category><![CDATA[software-development]]></category>
+            <dc:creator><![CDATA[mayura-andrew]]></dc:creator>
+            <pubDate>Fri, 05 Apr 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enhance Your Skills with Free Linux Foundation Training Courses]]></title>
@@ -64,6 +114,19 @@
             <category><![CDATA[open-source]]></category>
             <dc:creator><![CDATA[mayura andrew]]></dc:creator>
             <pubDate>Wed, 01 Mar 2023 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Running ngrok as a Service on DigitalOcean Ubuntu Server]]></title>
+            <description><![CDATA[Learn how to run ngrok as a systemd service on your DigitalOcean Ubuntu server to keep secure tunnels running continuously.]]></description>
+            <link>/posts/ngrok-static-domain-run-continuosly</link>
+            <guid isPermaLink="true">/posts/ngrok-static-domain-run-continuosly</guid>
+            <category><![CDATA[ngrok]]></category>
+            <category><![CDATA[digitalocean]]></category>
+            <category><![CDATA[ubuntu]]></category>
+            <category><![CDATA[systemd]]></category>
+            <category><![CDATA[devops]]></category>
+            <dc:creator><![CDATA[mayura andrew]]></dc:creator>
+            <pubDate>Wed, 22 May 2024 18:30:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
