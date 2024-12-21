@@ -1,27 +1,24 @@
 const withNextra = require('nextra')({
   theme: 'nextra-theme-blog',
   themeConfig: './theme.config.js',
-  staticImage: true,
-  unstable_staticImage: true,
-  // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
+  staticImage: true
 });
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // any configs you need
-
+  output: 'export',
   images: {
-    unoptimized: true,
+    unoptimized: true
   },
-  // ... other configurations
+  basePath: process.env.NEXT_PUBLIC_BASE_PATH || '',
+  assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || ''
 };
 
 try {
   module.exports = withNextra(nextConfig);
-} catch (error) {
-  if (!(error instanceof Error)) {
-    console.error('An unexpected error occurred:', error);
-  } else {
-    throw error;
-  }
+} catch (err) {
+  // Ensure we're always working with Error instances
+  const error = err instanceof Error ? err : new Error(String(err));
+  console.error(error);
+  throw error;
 }
